@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ph.D. Application Response</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        header {
+            text-align: center;
+            background-color: #f0f0f0;
+            padding: 10px;
+        }
+        article {
+            margin-top: 20px;
+        }
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ph.D. Application Response</h1>
+    </header>
+
+    <article>
+        <p>Dear [Prospective Student's Name],</p>
+
+        <p>
+            Thank you for your application to our Ph.D. program. We appreciate your interest in our research group and university.
+        </p>
+
+        <p>
+            After careful consideration, we are pleased to inform you that your application has been successful. Your academic achievements and research experience align well with our program's goals, and we believe you will make valuable contributions to our research community.
+        </p>
+
+        <p>
+            We look forward to welcoming you to [University Name] and are confident that your time here will be academically rewarding and personally enriching.
+        </p>
+
+        <p>
+            If you have any questions or need further information, please do not hesitate to contact us.
+        </p>
+
+        <p>
+            Best regards,<br>
+            [Research Fellow's Full Name]<br>
+            [Research Fellow's Position]<br>
+            [University Name]
+        </p>
+    </article>
+
+    <footer>
+        [University Name]<br>
+        [University Address]<br>
+        Phone: [University Phone Number]<br>
+        Email: [University Email Address]
+    </footer>
+
+</body>
+</html>
